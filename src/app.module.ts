@@ -14,7 +14,7 @@ import { Connection } from 'typeorm';
     host: "localhost",
     port: 3306,
     username: "root",
-    password: "",
+    password: "m19941994",
     database: "noteApp",
     entities: [__dirname+"/**/*entity{.ts,.js}"],
     synchronize: true}),
